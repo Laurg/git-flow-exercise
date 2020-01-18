@@ -22,7 +22,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 
 
-
 ## Last Month's Favorites
 
 
@@ -37,4 +36,5 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md)
 
 [Roast Pork and pickled Cucumber Sandwich] (recipe/feb/roast-pork-and-pickled-cucumber-sandwich.md)
+
 
