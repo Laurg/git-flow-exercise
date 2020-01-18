@@ -4,7 +4,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 
 
+
 ## Picks of the Month
+
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
 
@@ -14,14 +16,9 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Asparagus with Cranberries and Pine Nuts](recipe/feb/asparagus-with-cranberries-and-pine-nuts.md)
 
-### [John Lemon](writer/john-lemon.md)
-
-[Candided Carrots] (recipe/feb/candided-carrots.md)
-
 ### [Madame Croque](writer/madame-croque.md)
 
 [Roast Pork and pickled Cucumber Sandwich] (recipe/feb/roast-pork-and-pickled-cucumber-sandwich.md)
-
 
 
 
@@ -39,4 +36,5 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md)
 
 [Roast Pork and pickled Cucumber Sandwich] (recipe/feb/roast-pork-and-pickled-cucumber-sandwich.md)
+
 
